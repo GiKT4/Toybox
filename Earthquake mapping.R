@@ -1,4 +1,4 @@
-## Description:  This program aims to visually expore the locatinos and magnitude of past earthquakes in Canada
+## Description:  This program aims to visually expore the locations and magnitude of past earthquakes in Canada
 
 ## Compiled by:  Kevin Turner
 
